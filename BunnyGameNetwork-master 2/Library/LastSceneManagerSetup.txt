@@ -1,4 +1,4 @@
 sceneSetups:
-- path: assets/scenes/level02.unity
+- path: assets/scenes/StaffInfo.unity
   isLoaded: 1
   isActive: 1

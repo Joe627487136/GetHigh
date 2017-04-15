@@ -1,13 +1,17 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="assets/Lobby/Scripts/Lobby/LobbyManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="assets/standard assets/cameras/Scripts/AbstractTargetFollower.cs">
     <Files>
-      <File FileName="assets/scripts/NetworkButton.cs" Line="1" Column="1" />
-      <File FileName="assets/scripts/respawn.cs" Line="101" Column="9" />
-      <File FileName="assets/standard assets/characters/ThirdPersonCharacter/Scripts/ThirdPersonCharacter.cs" Line="1" Column="1" />
+      <File FileName="assets/scripts/respawn.cs" Line="38" Column="50" />
+      <File FileName="assets/scripts/NetworkButton.cs" Line="65" Column="26" />
+      <File FileName="assets/standard assets/characters/ThirdPersonCharacter/Scripts/ThirdPersonCharacter.cs" Line="54" Column="12" />
       <File FileName="assets/standard assets/characters/ThirdPersonCharacter/Scripts/ThirdPersonUserControlPC.cs" Line="1" Column="1" />
-      <File FileName="assets/standard assets/characters/ThirdPersonCharacter/Scripts/ThirdPersonUserControl.cs" Line="1" Column="1" />
-      <File FileName="assets/Lobby/Scripts/Lobby/LobbyManager.cs" Line="1" Column="1" />
+      <File FileName="assets/scripts/Movingplatform.cs" Line="7" Column="23" />
+      <File FileName="assets/scripts/HoldCharacter.cs" Line="1" Column="1" />
+      <File FileName="assets/standard assets/cameras/Scripts/ProtectCameraFromWallClip.cs" Line="1" Column="1" />
+      <File FileName="assets/standard assets/cameras/Scripts/AutoCam.cs" Line="10" Column="40" />
+      <File FileName="assets/standard assets/cameras/Scripts/PivotBasedCameraRig.cs" Line="13" Column="18" />
+      <File FileName="assets/standard assets/cameras/Scripts/AbstractTargetFollower.cs" Line="85" Column="69" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
